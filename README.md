@@ -1,6 +1,6 @@
 # 記憶模型與學習適應性模擬之實作
 
-## Implementation of Memory Model and Learning Adaptability Simulation
+Implementation of Memory Model and Learning Adaptability Simulation
 
 ## 作業主題
 
